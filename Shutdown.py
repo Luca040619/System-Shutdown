@@ -1,4 +1,5 @@
 """System Shutdown source code, schedule the shutdown or restart of your PC"""
+"""@author Luca Porzio"""
 
 from tkinter import *
 import tkinter as tk
